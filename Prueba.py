@@ -7,3 +7,4 @@ This is a temporary script file.
 
 print("Cuack")
 print("Cuack2")
+print("Cuack3")
