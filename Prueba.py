@@ -11,3 +11,5 @@ print("Cuack3")
 
 print("DevCuack")
 print("DevCuack2")
+
+print("RemoteCuack")
