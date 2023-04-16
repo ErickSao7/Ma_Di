@@ -17,5 +17,5 @@ void loop() {
   else{
     digitalWrite(PIN_LED,LOW);
   }
-  delay(100);
+  delay(1000);
 }
