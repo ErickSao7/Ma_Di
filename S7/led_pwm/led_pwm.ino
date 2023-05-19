@@ -22,9 +22,9 @@ void loop() {
   Serial.println(ldr_in);
 
   // analogWrite(PIN_LED,pwm_in/16);
-  analogWrite(PIN_LED,255-ldr_in/8);
-  
-  // for(int i=0;i<255; i++){
+  analogWrite(PIN_LED,255 - (ldr_in/16));
+
+  // for(int i=0;i<255; i++){  //segmento del programa para 
   //   analogWrite(PIN_LED, i);
   //   delay(10);
   // }
